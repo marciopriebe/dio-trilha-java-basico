@@ -1,0 +1,28 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  "version": "0.2.0",
+  "configurations": [
+      
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch MinhaClasse",
+      "request": "launch",
+      "mainClass": "MinhaClasse",
+      "projectName": "primeiraClasse_1865bd43"
+    },
+    {
+      "type": "java",
+      "name": "Launch Variaveis",
+      "request": "launch",
+      "mainClass": "Variaveis",
+      "projectName": "primeiraClasse_1865bd43"
+    }
+  ]
+}
